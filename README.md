@@ -11,6 +11,14 @@ Source code developed by raimundomlj@gmail.com as INSSO backend code exercise
 **- Javax Validation**.<br/>
 **- Swagger**.
 
+# Generate jar file
+
+on project root folder use: 
+```
+mvn install
+```
+>Make sure you have installed Maven command line tool and Java with version at least 1.8.
+
 # How to run
 
 Using the .jar file on project root folder 
