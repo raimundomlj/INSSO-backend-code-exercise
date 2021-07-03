@@ -4,12 +4,12 @@ Source code developed by raimundomlj@gmail.com as INSSO backend code exercise
 
 # Tech stack
 
-**Java 8**.
-**Spring boot**.
-**H2 in memory database**.
-**Junit**
-**Javax Validation**
-**Swagger**
+>**- Java 8**.<br/>
+**- Spring boot**.<br/>
+**- H2 in memory database**.<br/>
+**- Junit**.<br/>
+**- Javax Validation**.<br/>
+**- Swagger**.
 
 # How to run
 
