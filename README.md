@@ -25,6 +25,10 @@ Using the .jar file on project root folder
 ```
 insso_backend_code_exercise-0.0.1-SNAPSHOT.jar
 ``` 
+or jar file generated on previous step located on:
+```
+target/insso_backend_code_exercise-0.0.1-SNAPSHOT.jar
+``` 
 
 or by maven on project root folder using: 
 ```
@@ -38,7 +42,7 @@ When this code is running, the server will be available at http://localhost:8080
 This project uses Swagger. 
 Documentation and endpoints can be found in: http://localhost:8080/swagger-ui.html#/
 
-# Payload examples
+# Request API Examples
 
 ### Create a new message to be associated after to a client case using /associate endpoint
 
