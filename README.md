@@ -13,9 +13,9 @@ Source code developed by raimundomlj@gmail.com as INSSO backend code exercise
 
 # How to run
 
-Using the .jar file on 
+Using the .jar file on project root folder 
 ```
-target/insso_backend_code_exercise-0.0.1-SNAPSHOT.jar
+insso_backend_code_exercise-0.0.1-SNAPSHOT.jar
 ``` 
 
 or by maven on project root folder using: 
