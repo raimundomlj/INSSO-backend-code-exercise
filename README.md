@@ -61,8 +61,7 @@ Documentation and endpoints can be found in: http://localhost:8080/swagger-ui.ht
 {
   "clientCaseId": 1,
   "messageId": [
-    1,
-    2
+    1
   ]
 }
 ```
@@ -92,3 +91,9 @@ API-->>Client: message and client case asscoiated
 
 ```
 
+# Custom Errors
+##### VALIDATION_ERROR : occur when field are not correct, send a list with all wrong fields
+##### NOT_SAVED:occur when is not possible save on database
+##### EMPTY_LIST: occur when are not data on database 
+##### NOT_FOUND: occur when is not possible found data on database   
+##### NOT_POSSIBLE : occur when is not possible complete a request 
